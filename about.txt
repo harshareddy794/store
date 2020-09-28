@@ -1,0 +1,4 @@
+This project is useful for the people who was busy in their works.
+This project has the specification of linking the shop for buying the product easy and where the customers can know the rating of the shop and what companys in the shop are available.
+In this customers can book thier order from the site and then bring their product from where they have booked.
+This is how my project should work in small point of view.
